@@ -1,0 +1,39 @@
+.c {
+  background-image: url(../../assets/images/homeimg2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+  height: 500px;
+  filter: brightness(60%);
+}
+.con {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+hr {
+  color: black;
+}
+.link {
+  border: 1px solid blue;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  width: 200px;
+  height: 200px;
+}
+.paragraph {
+  padding-right: 7%;
+  text-align: justify;
+  margin-top: 20%;
+}
+.boja {
+  color: black;
+}
+.kon {
+  width: 100%;
+  max-width: 300px;
+}

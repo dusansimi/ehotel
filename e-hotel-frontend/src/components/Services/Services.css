@@ -1,0 +1,14 @@
+.naslov {
+	color: black;
+	margin-bottom: 30px;
+}
+
+.margina {
+	margin-bottom: 50px;
+}
+
+#formGridTipi {
+	width: 100%;
+	max-width: 330px;
+	margin: auto;
+}

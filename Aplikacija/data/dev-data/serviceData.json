@@ -1,0 +1,37 @@
+[
+  {
+    "name": "dorucak u sobi",
+    "type": "food",
+    "price": 300
+  },
+  {
+    "name": "rucak u sobi",
+    "type": "food",
+    "price": 600
+  },
+  {
+    "name": "vecera u sobi",
+    "type": "food",
+    "price": 500
+  },
+  {
+    "name": "ciscenje sobe",
+    "type": "service",
+    "price": 0
+  },
+  {
+    "name": "rezervacija saune",
+    "type": "service",
+    "price": 800
+  },
+  {
+    "name": "Sampanjac",
+    "type": "drinks",
+    "price": 1000
+  },
+  {
+    "name": "Jastog",
+    "type": "food",
+    "price": 2000
+  }
+]

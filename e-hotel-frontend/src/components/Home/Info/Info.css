@@ -1,0 +1,14 @@
+.par {
+  margin-top: 30px;
+  padding-top: 20px;
+  text-align: justify;
+  line-height: 1.8;
+  font-size: 23px;
+}
+h1 {
+  padding-top: 30px;
+}
+
+.d {
+  margin-bottom: 50px;
+}
